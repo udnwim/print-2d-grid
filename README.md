@@ -4,3 +4,4 @@ Given a URL that includes a table with x and y coordinators and characters, I wi
 [Example URL](https://docs.google.com/document/d/e/2PACX-1vQGUck9HIFCyezsrBSnmENk5ieJuYwpt7YHYEzeNJkIb9OSDdx-ov2nRNReKQyey-cwJOoEKUhLmN9z/pub)
 
 Output: 
+![Alt text](output.png)
